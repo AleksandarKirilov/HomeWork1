@@ -1,5 +1,5 @@
-# HomeWork1
-HomeWork1 for 10.03.2022 By AleksandarKirilov 200 028 FEBA AFDA 
+# Homework1
+Homework1 from 10.03.2022 By AleksandarKirilov 200 028 FEBA AFDA 
 # Problem 1
 for(i in 1:10) {
   print(i*3)
